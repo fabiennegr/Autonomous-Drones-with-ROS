@@ -17,7 +17,7 @@
 
 ## Introduction
 
-In the summer semester of 2023, we took a course at TU Munich called [Introduction to ROS](https://campus.tum.de/tumonline/pl/ui/$ctx/wbLv.wbShowLVDetail?pStpSpNr=950572887). As part of this course, we were assigned with a project that involved the following components (See the visual overview ![here](../main/documentation/overview.jpg)):
+In the summer semester of 2023, we took a course at TU Munich called [Introduction to ROS](https://campus.tum.de/tumonline/pl/ui/$ctx/wbLv.wbShowLVDetail?pStpSpNr=950572887). As part of this course, we were assigned with a project that involved the following components:
 
 1. **Unity Simulation Environment:** A base version was provided, which we were free to adjust and improve.
 
@@ -64,7 +64,7 @@ All the drone flight tests were performed on this system within a virtual enviro
 
 ## RQT - Graph
 <p align="center">
-  <img src="https://gitlab.lrz.de/00000000014AC757/group_4/-/raw/Revert_Integrate/documentation/rosgraph.svg" alt="rosgraph">
+  <img src="../main/documentation/rosgraph.svg" alt="rosgraph">
 </p>
 
 ## Setup and Installation
@@ -109,7 +109,7 @@ record: rosbag record -a -o recording.bag
 
 The state machine is a wrapper guiding the drone to change the states as shown here:
 <p align="center">
-  <img src="https://gitlab.lrz.de/00000000014AC757/group_4/-/raw/main/documentation/overview.jpg" width="500" alt="Project Overview">
+  <img src="../main/documentation/overview.jpg" width="500" alt="Project Overview">
 </p>
 
 ## Current Problems
@@ -118,3 +118,5 @@ The state machine is a wrapper guiding the drone to change the states as shown h
 - Confiscated pointclouds on each other
 - Sparse 2D scan
 - Unexplored regions because of high inflation radius
+
+##### Disclaimer: Since this is a course project, the files have been hidden to eliminate any possibility of malpractice from future course attendees.
