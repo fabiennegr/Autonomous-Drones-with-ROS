@@ -1,5 +1,5 @@
 # Autonomous Drones with ROS
-###### <h6 align="right"> - A group project by Milena Eisemann, Samyak Jain, Abhinav Utkarsh, Fabienne Greier from TU - Munich</h6>
+###### <h6 align="right"> - A group project by Milena Eisemann, Samyak Jain, Abhinav Utkarsh, and Fabienne Greier from TU - Munich</h6>
 
 
 ## Table of Contents
