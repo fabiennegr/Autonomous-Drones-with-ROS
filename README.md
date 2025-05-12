@@ -17,7 +17,7 @@
 
 ## Introduction
 
-In the summer semester of 2023, we took a course at TU Munich called [Introduction to ROS](https://campus.tum.de/tumonline/pl/ui/$ctx/wbLv.wbShowLVDetail?pStpSpNr=950572887). As part of this course, we were assigned with a project that involved the following components:
+In the summer semester of 2023, we took a course at TU Munich called [Introduction to ROS](https://campus.tum.de/tumonline/WBMODHB.wbShowMHBReadOnly?pKnotenNr=2706938&pOrgNr=50997). As part of this course, we were assigned with a project that involved the following components:
 
 1. **Unity Simulation Environment:** A base version was provided, which we were free to adjust and improve.
 
